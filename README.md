@@ -46,6 +46,9 @@ label-separator = " | "
 
 👤 **Jarrett Azar**
 * Github: [@JarrettAzar](https://github.com/JarrettAzar)
+##### With help from
+* [@diamondburned](https://github.com/diamondburned)
+* [@MitchWeaver](https://github.com/MitchWeaver)
 
 ## Want to Contribute?
 * Pull request!
