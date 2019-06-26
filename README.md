@@ -1,6 +1,11 @@
 # teatime
 > a small tea timer for polybar
 
+## Usage
+
+Insert the modules into your polybar config, and create a bar called 'countbar' to show the countdown.
+> If you don't want to show the countdown, then edit the teabar.sh script. (I am not sure if this will work at the moment)
+
 ## Modules
 
 ```ini
@@ -29,12 +34,19 @@ label-separator = " | "
 
 ```
 
+#### This is a work in progress, and will probably get more concise and less buggy over time
+##### TODO
+1. Lemonbar Support
+2. Pure CLI Support
+3. Allowing for custom amounts of time
+
 ## Author
 
 👤 **Jarrett Azar**
-
-* Twitter: [@failbiscuit](https://twitter.com/failbiscuit)
 * Github: [@JarrettAzar](https://github.com/JarrettAzar)
+
+## Want to Contribute?
+* Pull request!
 
 ## Show your support
 
