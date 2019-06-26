@@ -1,10 +1,4 @@
-<h1 align="center">Welcome to teatime 👋</h1>
-<p>
-  <a href="https://twitter.com/failbiscuit">
-    <img alt="Twitter: failbiscuit" src="https://img.shields.io/twitter/follow/failbiscuit.svg?style=social" target="_blank" />
-  </a>
-</p>
-
+#teatime
 > a small tea timer for polybar
 
 ## Install
@@ -29,6 +23,3 @@ npm install
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
