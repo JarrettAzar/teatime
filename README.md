@@ -1,4 +1,4 @@
-#teatime
+# teatime
 > a small tea timer for polybar
 
 ## Install
