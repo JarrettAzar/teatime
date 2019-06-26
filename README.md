@@ -44,6 +44,7 @@ label-separator = " | "
 1. Lemonbar Support
 2. Pure CLI Support
 3. Allowing for custom amounts of time
+4. Mac Support?
 
 ## Author
 
