@@ -3,7 +3,7 @@
 
 ## Install
 
-```sh
+```ini
 [module/timer]
 type = custom/script
 interval = 100
