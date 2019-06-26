@@ -1,7 +1,7 @@
 # teatime
 > a small tea timer for polybar
 
-## Install
+## Modules
 
 ```ini
 [module/timer]
