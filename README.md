@@ -1,2 +1,2 @@
 # teatime
-simple bash timer
+simple timer for tea, with polybar and notification support
