@@ -7,12 +7,6 @@
 npm install
 ```
 
-## Usage
-
-```sh
-./install.sh
-```
-
 ## Author
 
 👤 **Jarrett Azar**
