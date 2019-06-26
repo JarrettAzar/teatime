@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-#This was modified by Diamond :) (he made it more concise)
-
 teatype=$(< /tmp/teatype)
 
 seconds=$[ teatype * 60 ]
