@@ -1,9 +1,10 @@
 # teatime
 > a small tea timer for polybar with notification support
 
-![example](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/show.gif)
-
 > inspired by [KTeaTime](https://kde.org/applications/utilities/org.kde.kteatime?fbclid=IwAR0CZpOgfnsrbN32IHDoqp0FKahGU0Hp1Dkxx1HQyW11c0NMepzuvvtm_iY/development)
+
+
+![example](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/show.gif)
 
 ## Usage
 
