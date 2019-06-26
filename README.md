@@ -1,6 +1,8 @@
 # teatime
 > a small tea timer for polybar
 
+![example](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/show.gif)
+
 ## Usage
 
 Insert the modules into your polybar config, and create a bar called 'countbar' to show the countdown.
