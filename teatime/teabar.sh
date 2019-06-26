@@ -5,14 +5,10 @@ echo "$1" > /tmp/teatype
 polybar countbar &
 PID=$!
 
-if [ "$1" = 1 ]; then
-	sleep 62
-fi
-if [ "$1" = 3 ]; then
-	sleep 122
-fi
-if [ "$1" = 5 ]; then
-	sleep 182
-fi
+case "$1" in
+    1) sleep 62 ;;
+    3) sleep 122 ;;
+    5) sleep 182
+esac
 
 kill $PID
