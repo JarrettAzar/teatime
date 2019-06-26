@@ -4,6 +4,8 @@
 
 ![example](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/show.gif)
 
+![notif](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/notification.png)
+
 ## Usage
 
 Insert the modules into your polybar config, and create a bar called 'countbar' to show the countdown.
