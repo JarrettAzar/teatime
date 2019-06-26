@@ -1,5 +1,5 @@
 # teatime
-> a small tea timer for polybar
+> a small tea timer for polybar with notification support
 
 ![example](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/show.gif)
 
