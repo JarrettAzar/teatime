@@ -15,7 +15,7 @@ Insert the modules into your polybar config, and create a bar called 'countbar' 
 type = custom/script
 interval = 100
 format = <label>
-exec = $HOME/timer.sh 1
+exec = $HOME/teatime/timer.sh 1
 tail = true
 
 [module/menu-timer]
@@ -26,9 +26,9 @@ menu-0-0 = Green Tea
 menu-0-1 = Black Tea
 menu-0-2 = Herbal Tea
 
-menu-0-0-exec = $HOME/teabar.sh 1
-menu-0-1-exec = $HOME/teabar.sh 3
-menu-0-2-exec = $HOME/teabar.sh 5
+menu-0-0-exec = $HOME/teatime/teabar.sh 1
+menu-0-1-exec = $HOME/teatime/teabar.sh 3
+menu-0-2-exec = $HOME/teatime/teabar.sh 5
 
 label-open = Tea Timer
 label-close = X
