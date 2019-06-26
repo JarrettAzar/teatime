@@ -7,8 +7,8 @@ PID=$!
 
 case "$1" in
     1) sleep 62 ;;
-    3) sleep 122 ;;
-    5) sleep 182
+    3) sleep 182 ;;
+    5) sleep 302
 esac
 
 kill $PID
