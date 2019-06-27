@@ -5,10 +5,8 @@ echo "$1" > /tmp/teatype
 polybar countbar &
 PID=$!
 
-case "$1" in
-    1) sleep 62 ;;
-    3) sleep 182 ;;
-    5) sleep 302
-esac
+sleeptime=$[ ($1 * 60) + 2 ]
+
+sleep $sleeptime
 
 kill $PID
