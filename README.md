@@ -4,14 +4,14 @@
 
 ![example](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/show.gif)
 
-![notif](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/notification.png)
+![notif](https://raw.githubusercontent.com/JarrettAzar/teatime/master/teaexamples/notif.png)
 
 ## Usage
 
 Insert the modules into your polybar config, and create a bar called 'countbar' to show the countdown.
 
 ##### Want to adjust the steep time?
-> Change the number in the polybar config, thats it! (that's actually coming soon, for now, you also need to change the numbers in teatime/timer.sh)
+> Change the number in the polybar config, thats it!
 
 ## Modules
 
