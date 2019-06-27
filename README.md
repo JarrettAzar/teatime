@@ -10,7 +10,7 @@
 
 Insert the modules into your polybar config, and create a bar called 'countbar' to show the countdown.
 
-Want to adjust the steep time?
+##### Want to adjust the steep time?
 > Just change the numbers in the polybar config, thats it!
 
 ## Modules
