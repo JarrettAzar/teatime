@@ -18,7 +18,7 @@ Insert the modules into your polybar config, and create a bar called 'countbar' 
 type = custom/script
 interval = 100
 format = <label>
-exec = $HOME/teatime/timer.sh 1
+exec = $HOME/teatime/timer.sh
 tail = true
 
 [module/menu-timer]
