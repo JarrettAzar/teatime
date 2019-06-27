@@ -5,7 +5,7 @@ echo "$1" > /tmp/teatype
 polybar countbar &
 PID=$!
 
-sleeptime=$[ ($1 * 60) + 2 ]
+sleeptime=$(( ($1 * 60) + 2 ))
 
 sleep $sleeptime
 
