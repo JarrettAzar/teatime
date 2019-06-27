@@ -12,6 +12,8 @@ Insert the modules into your polybar config, and create a bar called 'countbar' 
 
 ##### Want to adjust the steep time?
 > Just change the numbers in the polybar config, thats it!
+##### Want to add more tea options?
+> Just add another menu module and pass the steep time as the argument
 
 ## Modules
 
