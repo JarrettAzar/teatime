@@ -12,7 +12,7 @@ while [[ "$date1" -ge `now` ]]; do
   sleep 1
 done
 
-case "$1" in
+case "$teatype" in
     1) notify-send "Tea Finished!" "Green Tea" ;;
     3) notify-send "Tea Finished!" "Black Tea" ;;
     5) notify-send "Tea Finished!" "Herbal Tea"
