@@ -11,6 +11,9 @@
 Insert the modules into your polybar config, and create a bar called 'countbar' to show the countdown.
 > If you don't want to show the countdown, then edit the teabar.sh script. (I am not sure if this will work at the moment)
 
+##### Want to adjust the steep time?
+> Change the number in the polybar config, thats it! (that's actually coming soon, for now, you also need to change the numbers in teatime/timer.sh :( )
+
 ## Modules
 
 ```ini
