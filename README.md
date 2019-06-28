@@ -44,7 +44,7 @@ label-separator = " | "
 > Just add another menu layer and pass the steep time as the argument
 
 #### This is a work in progress, and will probably get more concise and less buggy over time
-##### TODO
+## TODO
 1. Lemonbar Support
 2. Pure CLI Support
 3. Mac Support?
