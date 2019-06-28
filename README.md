@@ -49,6 +49,9 @@ label-separator = " | "
 2. Pure CLI Support
 3. Mac Support?
 
+## Want to Contribute?
+* Pull request!
+
 ## Author
 
 👤 **Jarrett Azar**
@@ -56,10 +59,3 @@ label-separator = " | "
 ##### With help from
 * [@diamondburned](https://github.com/diamondburned)
 * [@MitchWeaver](https://github.com/MitchWeaver)
-
-## Want to Contribute?
-* Pull request!
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
