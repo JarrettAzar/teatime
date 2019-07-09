@@ -46,6 +46,7 @@ label-separator = " | "
 #### This is a work in progress, and will probably get more concise and less buggy over time
 ## TODO
 1. Lemonbar Support
+2. Zsh/Fish Support
 2. Pure CLI Support
 3. Mac Support?
 
